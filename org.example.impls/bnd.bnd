@@ -1,0 +1,18 @@
+-buildpath: \
+	osgi.annotation;version=7.0.0,\
+	osgi.core;version=7.0.0,\
+	osgi.cmpn;version=7.0.0,\
+	org.example.api;version=latest,\
+	org.apache.felix.gogo.runtime
+
+-testpath: \
+	${junit},\
+	${mockito},\
+	${mockito-deps}
+
+Bundle-ActivationPolicy: lazy
+
+javac.source: 1.8
+javac.target: 1.8
+
+-sub: *.bnd
