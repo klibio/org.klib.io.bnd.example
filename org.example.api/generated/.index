@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<repository xmlns="http://www.osgi.org/xmlns/repository/v1.0.0" name="org.example.api" increment="1540741213838">
+<repository xmlns="http://www.osgi.org/xmlns/repository/v1.0.0" name="org.example.api" increment="1540741665864">
   <resource>
     <capability namespace="osgi.identity">
       <attribute name="osgi.identity" value="org.example.api"/>
@@ -19,10 +19,10 @@
       <attribute name="osgi.wiring.package" value="org.example.api"/>
     </capability>
     <capability namespace="osgi.content">
-      <attribute name="size" value="2414" type="Long"/>
+      <attribute name="size" value="2415" type="Long"/>
       <attribute name="url" value="generated/org.example.api.jar"/>
       <attribute name="mime" value="application/vnd.osgi.bundle"/>
-      <attribute name="osgi.content" value="8B05A8D4228D05E984A153B46C5737854408F51FC78936012671D7A8237F8489"/>
+      <attribute name="osgi.content" value="AD8CEE692C4B484DDCF0F8AA0F19BF2BFD4946638EDDF78AD74B5627297CB093"/>
     </capability>
     <capability namespace="bndtools.workspace">
       <attribute name="bndtools.workspace" value="file:/C:/Users/Alex/eclipse-workspace"/>
